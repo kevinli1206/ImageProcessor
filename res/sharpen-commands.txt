@@ -1,0 +1,1 @@
+load res/sailboat.png sailboat sharpen sailboat sharpenSailboat save res/sharpSailboat.png sharpenSailboat

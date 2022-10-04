@@ -1,0 +1,1 @@
+load res/sailboat.png sailboat blur sailboat blurSailboat save res/blurredSailboat.png blurSailboat
